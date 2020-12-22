@@ -6,3 +6,5 @@ AMI_Bands_Main_file_Cleanest-v6_absolute_numbers.ipynb has all the AMI data for 
 have to rerun the code to see the documents presented in the meeting. 
 
 Aux data folder has all of the data needed for crosswalks etc to make the files run 
+
+2010-2019_ca_household_survey_v2.csv file is too big for github, but stored on box here: https://app.box.com/folder/128479057701
