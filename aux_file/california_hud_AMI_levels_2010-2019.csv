@@ -1,0 +1,581 @@
+,State_Alpha,County_Name,Metro_Area_Name,year,median
+186,CA,Alameda County,"Oakland-Fremont, CA HUD Metro FMR Area",2017,97400
+187,CA,Alpine County,"Alpine County, CA",2017,74200
+188,CA,Amador County,"Amador County, CA",2017,70900
+189,CA,Butte County,"Chico, CA MSA",2017,62600
+190,CA,Calaveras County,"Calaveras County, CA",2017,69200
+191,CA,Colusa County,"Colusa County, CA",2017,58300
+192,CA,Contra Costa County,"Oakland-Fremont, CA HUD Metro FMR Area",2017,97400
+193,CA,Del Norte County,"Del Norte County, CA",2017,54100
+194,CA,El Dorado County,"Sacramento--Roseville--Arden-Arcade, CA HUD Metro FMR Area",2017,75200
+195,CA,Fresno County,"Fresno, CA MSA",2017,50000
+196,CA,Glenn County,"Glenn County, CA",2017,53600
+197,CA,Humboldt County,"Humboldt County, CA",2017,54500
+198,CA,Imperial County,"El Centro, CA MSA",2017,49700
+199,CA,Inyo County,"Inyo County, CA",2017,71200
+200,CA,Kern County,"Bakersfield, CA MSA",2017,53000
+201,CA,Kings County,"Hanford-Corcoran, CA MSA",2017,50200
+202,CA,Lake County,"Lake County, CA",2017,46200
+203,CA,Lassen County,"Lassen County, CA",2017,68800
+204,CA,Los Angeles County,"Los Angeles-Long Beach-Glendale, CA HUD Metro FMR Area",2017,64300
+205,CA,Madera County,"Madera, CA MSA",2017,51300
+206,CA,Marin County,"San Francisco, CA HUD Metro FMR Area",2017,115300
+207,CA,Mariposa County,"Mariposa County, CA",2017,65500
+208,CA,Mendocino County,"Mendocino County, CA",2017,59500
+209,CA,Merced County,"Merced, CA MSA",2017,48500
+210,CA,Modoc County,"Modoc County, CA",2017,48000
+211,CA,Mono County,"Mono County, CA",2017,75800
+212,CA,Monterey County,"Salinas, CA MSA",2017,63100
+213,CA,Napa County,"Napa, CA MSA",2017,91000
+214,CA,Nevada County,"Nevada County, CA",2017,69600
+215,CA,Orange County,"Santa Ana-Anaheim-Irvine, CA HUD Metro FMR Area",2017,88000
+216,CA,Placer County,"Sacramento--Roseville--Arden-Arcade, CA HUD Metro FMR Area",2017,75200
+217,CA,Plumas County,"Plumas County, CA",2017,62600
+218,CA,Riverside County,"Riverside-San Bernardino-Ontario, CA MSA",2017,63200
+219,CA,Sacramento County,"Sacramento--Roseville--Arden-Arcade, CA HUD Metro FMR Area",2017,75200
+220,CA,San Benito County,"San Benito County, CA HUD Metro FMR Area",2017,73400
+221,CA,San Bernardino County,"Riverside-San Bernardino-Ontario, CA MSA",2017,63200
+222,CA,San Diego County,"San Diego-Carlsbad, CA MSA",2017,79300
+223,CA,San Francisco County,"San Francisco, CA HUD Metro FMR Area",2017,115300
+224,CA,San Joaquin County,"Stockton-Lodi, CA MSA",2017,61100
+225,CA,San Luis Obispo County,"San Luis Obispo-Paso Robles-Arroyo Grande, CA MSA",2017,83200
+226,CA,San Mateo County,"San Francisco, CA HUD Metro FMR Area",2017,115300
+227,CA,Santa Barbara County,"Santa Maria-Santa Barbara, CA MSA",2017,73900
+228,CA,Santa Clara County,"San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",2017,113300
+229,CA,Santa Cruz County,"Santa Cruz-Watsonville, CA MSA",2017,83300
+230,CA,Shasta County,"Redding, CA MSA",2017,61800
+231,CA,Sierra County,"Sierra County, CA",2017,59500
+232,CA,Siskiyou County,"Siskiyou County, CA",2017,47500
+233,CA,Solano County,"Vallejo-Fairfield, CA MSA",2017,80400
+234,CA,Sonoma County,"Santa Rosa, CA MSA",2017,83900
+235,CA,Stanislaus County,"Modesto, CA MSA",2017,57500
+236,CA,Sutter County,"Yuba City, CA MSA",2017,55500
+237,CA,Tehama County,"Tehama County, CA",2017,51300
+238,CA,Trinity County,"Trinity County, CA",2017,50800
+239,CA,Tulare County,"Visalia-Porterville, CA MSA",2017,47300
+240,CA,Tuolumne County,"Tuolumne County, CA",2017,60200
+241,CA,Ventura County,"Oxnard-Thousand Oaks-Ventura, CA MSA",2017,85600
+242,CA,Yolo County,"Yolo, CA HUD Metro FMR Area",2017,74700
+243,CA,Yuba County,"Yuba City, CA MSA",2017,55500
+4957,CA,Alameda County,"Oakland-Fremont, CA HUD Metro FMR Area",2016,93600
+4958,CA,Alpine County,"Alpine County, CA",2016,78700
+4959,CA,Amador County,"Amador County, CA",2016,70400
+4960,CA,Butte County,"Chico, CA MSA",2016,57100
+4961,CA,Calaveras County,"Calaveras County, CA",2016,70200
+4962,CA,Colusa County,"Colusa County, CA",2016,58300
+4963,CA,Contra Costa County,"Oakland-Fremont, CA HUD Metro FMR Area",2016,93600
+4964,CA,Del Norte County,"Del Norte County, CA",2016,52800
+4965,CA,El Dorado County,"Sacramento--Roseville--Arden-Arcade, CA HUD Metro FMR Area",2016,69400
+4966,CA,Fresno County,"Fresno, CA MSA",2016,49500
+4967,CA,Glenn County,"Glenn County, CA",2016,53100
+4968,CA,Humboldt County,"Humboldt County, CA",2016,51500
+4969,CA,Imperial County,"El Centro, CA MSA",2016,48400
+4970,CA,Inyo County,"Inyo County, CA",2016,72000
+4971,CA,Kern County,"Bakersfield, CA MSA",2016,53300
+4972,CA,Kings County,"Hanford-Corcoran, CA MSA",2016,47500
+4973,CA,Lake County,"Lake County, CA",2016,50700
+4974,CA,Lassen County,"Lassen County, CA",2016,67300
+4975,CA,Los Angeles County,"Los Angeles-Long Beach-Glendale, CA HUD Metro FMR Area",2016,62400
+4976,CA,Madera County,"Madera, CA MSA",2016,46900
+4977,CA,Marin County,"San Francisco, CA HUD Metro FMR Area",2016,107700
+4978,CA,Mariposa County,"Mariposa County, CA",2016,63900
+4979,CA,Mendocino County,"Mendocino County, CA",2016,53600
+4980,CA,Merced County,"Merced, CA MSA",2016,44600
+4981,CA,Modoc County,"Modoc County, CA",2016,47500
+4982,CA,Mono County,"Mono County, CA",2016,74100
+4983,CA,Monterey County,"Salinas, CA MSA",2016,63500
+4984,CA,Napa County,"Napa, CA MSA",2016,82500
+4985,CA,Nevada County,"Nevada County, CA",2016,71700
+4986,CA,Orange County,"Santa Ana-Anaheim-Irvine, CA HUD Metro FMR Area",2016,85000
+4987,CA,Placer County,"Sacramento--Roseville--Arden-Arcade, CA HUD Metro FMR Area",2016,69400
+4988,CA,Plumas County,"Plumas County, CA",2016,56600
+4989,CA,Riverside County,"Riverside-San Bernardino-Ontario, CA MSA",2016,61400
+4990,CA,Sacramento County,"Sacramento--Roseville--Arden-Arcade, CA HUD Metro FMR Area",2016,69400
+4991,CA,San Benito County,"San Benito County, CA HUD Metro FMR Area",2016,73300
+4992,CA,San Bernardino County,"Riverside-San Bernardino-Ontario, CA MSA",2016,61400
+4993,CA,San Diego County,"San Diego-Carlsbad, CA MSA",2016,73500
+4994,CA,San Francisco County,"San Francisco, CA HUD Metro FMR Area",2016,107700
+4995,CA,San Joaquin County,"Stockton-Lodi, CA MSA",2016,58600
+4996,CA,San Luis Obispo County,"San Luis Obispo-Paso Robles-Arroyo Grande, CA MSA",2016,76400
+4997,CA,San Mateo County,"San Francisco, CA HUD Metro FMR Area",2016,107700
+4998,CA,Santa Barbara County,"Santa Maria-Santa Barbara, CA MSA",2016,77100
+4999,CA,Santa Clara County,"San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",2016,107100
+5000,CA,Santa Cruz County,"Santa Cruz-Watsonville, CA MSA",2016,85100
+5001,CA,Shasta County,"Redding, CA MSA",2016,50900
+5002,CA,Sierra County,"Sierra County, CA",2016,53800
+5003,CA,Siskiyou County,"Siskiyou County, CA",2016,48400
+5004,CA,Solano County,"Vallejo-Fairfield, CA MSA",2016,77600
+5005,CA,Sonoma County,"Santa Rosa, CA MSA",2016,75900
+5006,CA,Stanislaus County,"Modesto, CA MSA",2016,56800
+5007,CA,Sutter County,"Yuba City, CA MSA",2016,55900
+5008,CA,Tehama County,"Tehama County, CA",2016,50300
+5009,CA,Trinity County,"Trinity County, CA",2016,48600
+5010,CA,Tulare County,"Visalia-Porterville, CA MSA",2016,41800
+5011,CA,Tuolumne County,"Tuolumne County, CA",2016,60700
+5012,CA,Ventura County,"Oxnard-Thousand Oaks-Ventura, CA MSA",2016,88300
+5013,CA,Yolo County,"Yolo, CA HUD Metro FMR Area",2016,74100
+5014,CA,Yuba County,"Yuba City, CA MSA",2016,55900
+9728,CA,Alameda County,"Oakland-Fremont, CA HUD Metro FMR Area",2014,88500
+9729,CA,Alpine County,"Alpine County, CA",2014,85000
+9730,CA,Amador County,"Amador County, CA",2014,72300
+9731,CA,Butte County,"Chico, CA MSA",2014,54000
+9732,CA,Calaveras County,"Calaveras County, CA",2014,70000
+9733,CA,Colusa County,"Colusa County, CA",2014,57300
+9734,CA,Contra Costa County,"Oakland-Fremont, CA HUD Metro FMR Area",2014,88500
+9735,CA,Del Norte County,"Del Norte County, CA",2014,54200
+9736,CA,El Dorado County,"Sacramento--Arden-Arcade--Roseville, CA HUD Metro FMR Area",2014,68000
+9737,CA,Fresno County,"Fresno, CA MSA",2014,48700
+9738,CA,Glenn County,"Glenn County, CA",2014,53100
+9739,CA,Humboldt County,"Humboldt County, CA",2014,52100
+9740,CA,Imperial County,"El Centro, CA MSA",2014,43000
+9741,CA,Inyo County,"Inyo County, CA",2014,70900
+9742,CA,Kern County,"Bakersfield-Delano, CA MSA",2014,51700
+9743,CA,Kings County,"Hanford-Corcoran, CA MSA",2014,53700
+9744,CA,Lake County,"Lake County, CA",2014,46300
+9745,CA,Lassen County,"Lassen County, CA",2014,68000
+9746,CA,Los Angeles County,"Los Angeles-Long Beach, CA HUD Metro FMR Area",2014,60600
+9747,CA,Madera County,"Madera-Chowchilla, CA MSA",2014,52000
+9748,CA,Marin County,"San Francisco, CA HUD Metro FMR Area",2014,97100
+9749,CA,Mariposa County,"Mariposa County, CA",2014,60600
+9750,CA,Mendocino County,"Mendocino County, CA",2014,54000
+9751,CA,Merced County,"Merced, CA MSA",2014,45000
+9752,CA,Modoc County,"Modoc County, CA",2014,47900
+9753,CA,Mono County,"Mono County, CA",2014,81200
+9754,CA,Monterey County,"Salinas, CA MSA",2014,59100
+9755,CA,Napa County,"Napa, CA MSA",2014,70300
+9756,CA,Nevada County,"Nevada County, CA",2014,73500
+9757,CA,Orange County,"Orange County, CA HUD Metro FMR Area",2014,84900
+9758,CA,Placer County,"Sacramento--Arden-Arcade--Roseville, CA HUD Metro FMR Area",2014,68000
+9759,CA,Plumas County,"Plumas County, CA",2014,55300
+9760,CA,Riverside County,"Riverside-San Bernardino-Ontario, CA MSA",2014,60700
+9761,CA,Sacramento County,"Sacramento--Arden-Arcade--Roseville, CA HUD Metro FMR Area",2014,68000
+9762,CA,San Benito County,"San Benito County, CA HUD Metro FMR Area",2014,76100
+9763,CA,San Bernardino County,"Riverside-San Bernardino-Ontario, CA MSA",2014,60700
+9764,CA,San Diego County,"San Diego-Carlsbad-San Marcos, CA MSA",2014,72700
+9765,CA,San Francisco County,"San Francisco, CA HUD Metro FMR Area",2014,97100
+9766,CA,San Joaquin County,"Stockton, CA MSA",2014,58200
+9767,CA,San Luis Obispo County,"San Luis Obispo-Paso Robles, CA MSA",2014,77000
+9768,CA,San Mateo County,"San Francisco, CA HUD Metro FMR Area",2014,97100
+9769,CA,Santa Barbara County,"Santa Barbara-Santa Maria-Goleta, CA MSA",2014,72800
+9770,CA,Santa Clara County,"San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",2014,101900
+9771,CA,Santa Cruz County,"Santa Cruz-Watsonville, CA MSA",2014,77900
+9772,CA,Shasta County,"Redding, CA MSA",2014,51500
+9773,CA,Sierra County,"Sierra County, CA",2014,58700
+9774,CA,Siskiyou County,"Siskiyou County, CA",2014,49500
+9775,CA,Solano County,"Vallejo-Fairfield, CA MSA",2014,76700
+9776,CA,Sonoma County,"Santa Rosa-Petaluma, CA MSA",2014,76900
+9777,CA,Stanislaus County,"Modesto, CA MSA",2014,52700
+9778,CA,Sutter County,"Yuba City, CA MSA",2014,51500
+9779,CA,Tehama County,"Tehama County, CA",2014,48700
+9780,CA,Trinity County,"Trinity County, CA",2014,48900
+9781,CA,Tulare County,"Visalia-Porterville, CA MSA",2014,45100
+9782,CA,Tuolumne County,"Tuolumne County, CA",2014,62100
+9783,CA,Ventura County,"Oxnard-Thousand Oaks-Ventura, CA MSA",2014,88700
+9784,CA,Yolo County,"Yolo, CA HUD Metro FMR Area",2014,73900
+9785,CA,Yuba County,"Yuba City, CA MSA",2014,51500
+14495,CA,Alameda County,"Oakland-Fremont, CA HUD Metro FMR Area",2015,92900
+14496,CA,Alpine County,"Alpine County, CA",2015,94900
+14497,CA,Amador County,"Amador County, CA",2015,67400
+14498,CA,Butte County,"Chico, CA MSA",2015,53900
+14499,CA,Calaveras County,"Calaveras County, CA",2015,70200
+14500,CA,Colusa County,"Colusa County, CA",2015,58700
+14501,CA,Contra Costa County,"Oakland-Fremont, CA HUD Metro FMR Area",2015,92900
+14502,CA,Del Norte County,"Del Norte County, CA",2015,55600
+14503,CA,El Dorado County,"Sacramento--Arden-Arcade--Roseville, CA HUD Metro FMR Area",2015,71500
+14504,CA,Fresno County,"Fresno, CA MSA",2015,47600
+14505,CA,Glenn County,"Glenn County, CA",2015,54400
+14506,CA,Humboldt County,"Humboldt County, CA",2015,56200
+14507,CA,Imperial County,"El Centro, CA MSA",2015,44500
+14508,CA,Inyo County,"Inyo County, CA",2015,71500
+14509,CA,Kern County,"Bakersfield-Delano, CA MSA",2015,52000
+14510,CA,Kings County,"Hanford-Corcoran, CA MSA",2015,50000
+14511,CA,Lake County,"Lake County, CA",2015,48000
+14512,CA,Lassen County,"Lassen County, CA",2015,69400
+14513,CA,Los Angeles County,"Los Angeles-Long Beach, CA HUD Metro FMR Area",2015,63000
+14514,CA,Madera County,"Madera-Chowchilla, CA MSA",2015,45800
+14515,CA,Marin County,"San Francisco, CA HUD Metro FMR Area",2015,101900
+14516,CA,Mariposa County,"Mariposa County, CA",2015,61900
+14517,CA,Mendocino County,"Mendocino County, CA",2015,58900
+14518,CA,Merced County,"Merced, CA MSA",2015,52500
+14519,CA,Modoc County,"Modoc County, CA",2015,49900
+14520,CA,Mono County,"Mono County, CA",2015,77000
+14521,CA,Monterey County,"Salinas, CA MSA",2015,65000
+14522,CA,Napa County,"Napa, CA MSA",2015,84200
+14523,CA,Nevada County,"Nevada County, CA",2015,67500
+14524,CA,Orange County,"Orange County, CA HUD Metro FMR Area",2015,85900
+14525,CA,Placer County,"Sacramento--Arden-Arcade--Roseville, CA HUD Metro FMR Area",2015,71500
+14526,CA,Plumas County,"Plumas County, CA",2015,54400
+14527,CA,Riverside County,"Riverside-San Bernardino-Ontario, CA MSA",2015,60500
+14528,CA,Sacramento County,"Sacramento--Arden-Arcade--Roseville, CA HUD Metro FMR Area",2015,71500
+14529,CA,San Benito County,"San Benito County, CA HUD Metro FMR Area",2015,72800
+14530,CA,San Bernardino County,"Riverside-San Bernardino-Ontario, CA MSA",2015,60500
+14531,CA,San Diego County,"San Diego-Carlsbad-San Marcos, CA MSA",2015,73000
+14532,CA,San Francisco County,"San Francisco, CA HUD Metro FMR Area",2015,101900
+14533,CA,San Joaquin County,"Stockton, CA MSA",2015,59600
+14534,CA,San Luis Obispo County,"San Luis Obispo-Paso Robles, CA MSA",2015,77100
+14535,CA,San Mateo County,"San Francisco, CA HUD Metro FMR Area",2015,101900
+14536,CA,Santa Barbara County,"Santa Barbara-Santa Maria-Goleta, CA MSA",2015,75400
+14537,CA,Santa Clara County,"San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",2015,106300
+14538,CA,Santa Cruz County,"Santa Cruz-Watsonville, CA MSA",2015,87000
+14539,CA,Shasta County,"Redding, CA MSA",2015,56300
+14540,CA,Sierra County,"Sierra County, CA",2015,59800
+14541,CA,Siskiyou County,"Siskiyou County, CA",2015,49600
+14542,CA,Solano County,"Vallejo-Fairfield, CA MSA",2015,74500
+14543,CA,Sonoma County,"Santa Rosa-Petaluma, CA MSA",2015,73600
+14544,CA,Stanislaus County,"Modesto, CA MSA",2015,53300
+14545,CA,Sutter County,"Yuba City, CA MSA",2015,56500
+14546,CA,Tehama County,"Tehama County, CA",2015,50000
+14547,CA,Trinity County,"Trinity County, CA",2015,48800
+14548,CA,Tulare County,"Visalia-Porterville, CA MSA",2015,44000
+14549,CA,Tuolumne County,"Tuolumne County, CA",2015,63600
+14550,CA,Ventura County,"Oxnard-Thousand Oaks-Ventura, CA MSA",2015,85300
+14551,CA,Yolo County,"Yolo, CA HUD Metro FMR Area",2015,72200
+14552,CA,Yuba County,"Yuba City, CA MSA",2015,56500
+19262,CA,Alameda County,"Oakland-Fremont, CA HUD Metro FMR Area",2011,92300
+19263,CA,Alpine County,"Alpine County, CA",2011,83600
+19264,CA,Amador County,"Amador County, CA",2011,66800
+19265,CA,Butte County,"Chico, CA MSA",2011,57900
+19266,CA,Calaveras County,"Calaveras County, CA",2011,68800
+19267,CA,Colusa County,"Colusa County, CA",2011,54300
+19268,CA,Contra Costa County,"Oakland-Fremont, CA HUD Metro FMR Area",2011,92300
+19269,CA,Del Norte County,"Del Norte County, CA",2011,53900
+19270,CA,El Dorado County,"Sacramento--Arden-Arcade--Roseville, CA HUD Metro FMR Area",2011,75100
+19271,CA,Fresno County,"Fresno, CA MSA",2011,54700
+19272,CA,Glenn County,"Glenn County, CA",2011,50000
+19273,CA,Humboldt County,"Humboldt County, CA",2011,54900
+19274,CA,Imperial County,"El Centro, CA MSA",2011,44400
+19275,CA,Inyo County,"Inyo County, CA",2011,64600
+19276,CA,Kern County,"Bakersfield-Delano, CA MSA",2011,53300
+19277,CA,Kings County,"Hanford-Corcoran, CA MSA",2011,53600
+19278,CA,Lake County,"Lake County, CA",2011,54200
+19279,CA,Lassen County,"Lassen County, CA",2011,60900
+19280,CA,Los Angeles County,"Los Angeles-Long Beach, CA HUD Metro FMR Area",2011,64000
+19281,CA,Madera County,"Madera-Chowchilla, CA MSA",2011,53800
+19282,CA,Marin County,"San Francisco, CA HUD Metro FMR Area",2011,101600
+19283,CA,Mariposa County,"Mariposa County, CA",2011,58700
+19284,CA,Mendocino County,"Mendocino County, CA",2011,54500
+19285,CA,Merced County,"Merced, CA MSA",2011,50500
+19286,CA,Modoc County,"Modoc County, CA",2011,46700
+19287,CA,Mono County,"Mono County, CA",2011,74500
+19288,CA,Monterey County,"Salinas, CA MSA",2011,67800
+19289,CA,Napa County,"Napa, CA MSA",2011,85000
+19290,CA,Nevada County,"Nevada County, CA",2011,71600
+19291,CA,Orange County,"Orange County, CA HUD Metro FMR Area",2011,84200
+19292,CA,Placer County,"Sacramento--Arden-Arcade--Roseville, CA HUD Metro FMR Area",2011,75100
+19293,CA,Plumas County,"Plumas County, CA",2011,55900
+19294,CA,Riverside County,"Riverside-San Bernardino-Ontario, CA MSA",2011,62500
+19295,CA,Sacramento County,"Sacramento--Arden-Arcade--Roseville, CA HUD Metro FMR Area",2011,75100
+19296,CA,San Benito County,"San Benito County, CA HUD Metro FMR Area",2011,78300
+19297,CA,San Bernardino County,"Riverside-San Bernardino-Ontario, CA MSA",2011,62500
+19298,CA,San Diego County,"San Diego-Carlsbad-San Marcos, CA MSA",2011,74900
+19299,CA,San Francisco County,"San Francisco, CA HUD Metro FMR Area",2011,101600
+19300,CA,San Joaquin County,"Stockton, CA MSA",2011,65400
+19301,CA,San Luis Obispo County,"San Luis Obispo-Paso Robles, CA MSA",2011,74400
+19302,CA,San Mateo County,"San Francisco, CA HUD Metro FMR Area",2011,101600
+19303,CA,Santa Barbara County,"Santa Barbara-Santa Maria-Goleta, CA MSA",2011,72300
+19304,CA,Santa Clara County,"San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",2011,103600
+19305,CA,Santa Cruz County,"Santa Cruz-Watsonville, CA MSA",2011,85800
+19306,CA,Shasta County,"Redding, CA MSA",2011,58200
+19307,CA,Sierra County,"Sierra County, CA",2011,70900
+19308,CA,Siskiyou County,"Siskiyou County, CA",2011,49700
+19309,CA,Solano County,"Vallejo-Fairfield, CA MSA",2011,81500
+19310,CA,Sonoma County,"Santa Rosa-Petaluma, CA MSA",2011,81500
+19311,CA,Stanislaus County,"Modesto, CA MSA",2011,61100
+19312,CA,Sutter County,"Yuba City, CA MSA",2011,58600
+19313,CA,Tehama County,"Tehama County, CA",2011,45600
+19314,CA,Trinity County,"Trinity County, CA",2011,47600
+19315,CA,Tulare County,"Visalia-Porterville, CA MSA",2011,48800
+19316,CA,Tuolumne County,"Tuolumne County, CA",2011,65800
+19317,CA,Ventura County,"Oxnard-Thousand Oaks-Ventura, CA MSA",2011,88100
+19318,CA,Yolo County,"Yolo, CA HUD Metro FMR Area",2011,75800
+19319,CA,Yuba County,"Yuba City, CA MSA",2011,58600
+24028,CA,Alameda County,"Oakland-Fremont, CA HUD Metro FMR Area",2010,90300
+24029,CA,Alpine County,"Alpine County, CA",2010,67300
+24030,CA,Amador County,"Amador County, CA",2010,67900
+24031,CA,Butte County,"Chico, CA MSA",2010,53800
+24032,CA,Calaveras County,"Calaveras County, CA",2010,64400
+24033,CA,Colusa County,"Colusa County, CA",2010,53700
+24034,CA,Contra Costa County,"Oakland-Fremont, CA HUD Metro FMR Area",2010,90300
+24035,CA,Del Norte County,"Del Norte County, CA",2010,48200
+24036,CA,El Dorado County,"Sacramento--Arden-Arcade--Roseville, CA HUD Metro FMR Area",2010,73100
+24037,CA,Fresno County,"Fresno, CA MSA",2010,52200
+24038,CA,Glenn County,"Glenn County, CA",2010,49200
+24039,CA,Humboldt County,"Humboldt County, CA",2010,53200
+24040,CA,Imperial County,"El Centro, CA MSA",2010,45200
+24041,CA,Inyo County,"Inyo County, CA",2010,60200
+24042,CA,Kern County,"Bakersfield-Delano, CA MSA",2010,51900
+24043,CA,Kings County,"Hanford-Corcoran, CA MSA",2010,52900
+24044,CA,Lake County,"Lake County, CA",2010,48200
+24045,CA,Lassen County,"Lassen County, CA",2010,58100
+24046,CA,Los Angeles County,"Los Angeles-Long Beach, CA HUD Metro FMR Area",2010,63000
+24047,CA,Madera County,"Madera-Chowchilla, CA MSA",2010,51700
+24048,CA,Marin County,"San Francisco, CA HUD Metro FMR Area",2010,99400
+24049,CA,Mariposa County,"Mariposa County, CA",2010,57100
+24050,CA,Mendocino County,"Mendocino County, CA",2010,54600
+24051,CA,Merced County,"Merced, CA MSA",2010,49700
+24052,CA,Modoc County,"Modoc County, CA",2010,48100
+24053,CA,Mono County,"Mono County, CA",2010,67600
+24054,CA,Monterey County,"Salinas, CA MSA",2010,66100
+24055,CA,Napa County,"Napa, CA MSA",2010,81800
+24056,CA,Nevada County,"Nevada County, CA",2010,69200
+24057,CA,Orange County,"Orange County, CA HUD Metro FMR Area",2010,87200
+24058,CA,Placer County,"Sacramento--Arden-Arcade--Roseville, CA HUD Metro FMR Area",2010,73100
+24059,CA,Plumas County,"Plumas County, CA",2010,62000
+24060,CA,Riverside County,"Riverside-San Bernardino-Ontario, CA MSA",2010,65000
+24061,CA,Sacramento County,"Sacramento--Arden-Arcade--Roseville, CA HUD Metro FMR Area",2010,73100
+24062,CA,San Benito County,"San Benito County, CA HUD Metro FMR Area",2010,81100
+24063,CA,San Bernardino County,"Riverside-San Bernardino-Ontario, CA MSA",2010,65000
+24064,CA,San Diego County,"San Diego-Carlsbad-San Marcos, CA MSA",2010,75500
+24065,CA,San Francisco County,"San Francisco, CA HUD Metro FMR Area",2010,99400
+24066,CA,San Joaquin County,"Stockton, CA MSA",2010,63100
+24067,CA,San Luis Obispo County,"San Luis Obispo-Paso Robles, CA MSA",2010,72500
+24068,CA,San Mateo County,"San Francisco, CA HUD Metro FMR Area",2010,99400
+24069,CA,Santa Barbara County,"Santa Barbara-Santa Maria-Goleta, CA MSA",2010,71400
+24070,CA,Santa Clara County,"San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",2010,103500
+24071,CA,Santa Cruz County,"Santa Cruz-Watsonville, CA MSA",2010,84200
+24072,CA,Shasta County,"Redding, CA MSA",2010,54600
+24073,CA,Sierra County,"Sierra County, CA",2010,57400
+24074,CA,Siskiyou County,"Siskiyou County, CA",2010,48700
+24075,CA,Solano County,"Vallejo-Fairfield, CA MSA",2010,79200
+24076,CA,Sonoma County,"Santa Rosa-Petaluma, CA MSA",2010,80400
+24077,CA,Stanislaus County,"Modesto, CA MSA",2010,59500
+24078,CA,Sutter County,"Yuba City, CA MSA",2010,55500
+24079,CA,Tehama County,"Tehama County, CA",2010,48500
+24080,CA,Trinity County,"Trinity County, CA",2010,46000
+24081,CA,Tulare County,"Visalia-Porterville, CA MSA",2010,48200
+24082,CA,Tuolumne County,"Tuolumne County, CA",2010,59700
+24083,CA,Ventura County,"Oxnard-Thousand Oaks-Ventura, CA MSA",2010,86700
+24084,CA,Yolo County,"Yolo, CA HUD Metro FMR Area",2010,72500
+24085,CA,Yuba County,"Yuba City, CA MSA",2010,55500
+28794,CA,Alameda County,"Oakland-Fremont, CA HUD Metro FMR Area",2012,93500
+28795,CA,Alpine County,"Alpine County, CA",2012,84800
+28796,CA,Amador County,"Amador County, CA",2012,67700
+28797,CA,Butte County,"Chico, CA MSA",2012,58700
+28798,CA,Calaveras County,"Calaveras County, CA",2012,69700
+28799,CA,Colusa County,"Colusa County, CA",2012,55000
+28800,CA,Contra Costa County,"Oakland-Fremont, CA HUD Metro FMR Area",2012,93500
+28801,CA,Del Norte County,"Del Norte County, CA",2012,54600
+28802,CA,El Dorado County,"Sacramento--Arden-Arcade--Roseville, CA HUD Metro FMR Area",2012,76100
+28803,CA,Fresno County,"Fresno, CA MSA",2012,55500
+28804,CA,Glenn County,"Glenn County, CA",2012,50700
+28805,CA,Humboldt County,"Humboldt County, CA",2012,55600
+28806,CA,Imperial County,"El Centro, CA MSA",2012,45000
+28807,CA,Inyo County,"Inyo County, CA",2012,65500
+28808,CA,Kern County,"Bakersfield-Delano, CA MSA",2012,54100
+28809,CA,Kings County,"Hanford-Corcoran, CA MSA",2012,54300
+28810,CA,Lake County,"Lake County, CA",2012,55000
+28811,CA,Lassen County,"Lassen County, CA",2012,61700
+28812,CA,Los Angeles County,"Los Angeles-Long Beach, CA HUD Metro FMR Area",2012,64800
+28813,CA,Madera County,"Madera-Chowchilla, CA MSA",2012,54600
+28814,CA,Marin County,"San Francisco, CA HUD Metro FMR Area",2012,103000
+28815,CA,Mariposa County,"Mariposa County, CA",2012,59500
+28816,CA,Mendocino County,"Mendocino County, CA",2012,55300
+28817,CA,Merced County,"Merced, CA MSA",2012,51200
+28818,CA,Modoc County,"Modoc County, CA",2012,47300
+28819,CA,Mono County,"Mono County, CA",2012,75500
+28820,CA,Monterey County,"Salinas, CA MSA",2012,68700
+28821,CA,Napa County,"Napa, CA MSA",2012,86100
+28822,CA,Nevada County,"Nevada County, CA",2012,72600
+28823,CA,Orange County,"Orange County, CA HUD Metro FMR Area",2012,85300
+28824,CA,Placer County,"Sacramento--Arden-Arcade--Roseville, CA HUD Metro FMR Area",2012,76100
+28825,CA,Plumas County,"Plumas County, CA",2012,56700
+28826,CA,Riverside County,"Riverside-San Bernardino-Ontario, CA MSA",2012,63300
+28827,CA,Sacramento County,"Sacramento--Arden-Arcade--Roseville, CA HUD Metro FMR Area",2012,76100
+28828,CA,San Benito County,"San Benito County, CA HUD Metro FMR Area",2012,79300
+28829,CA,San Bernardino County,"Riverside-San Bernardino-Ontario, CA MSA",2012,63300
+28830,CA,San Diego County,"San Diego-Carlsbad-San Marcos, CA MSA",2012,75900
+28831,CA,San Francisco County,"San Francisco, CA HUD Metro FMR Area",2012,103000
+28832,CA,San Joaquin County,"Stockton, CA MSA",2012,66300
+28833,CA,San Luis Obispo County,"San Luis Obispo-Paso Robles, CA MSA",2012,75400
+28834,CA,San Mateo County,"San Francisco, CA HUD Metro FMR Area",2012,103000
+28835,CA,Santa Barbara County,"Santa Barbara-Santa Maria-Goleta, CA MSA",2012,73300
+28836,CA,Santa Clara County,"San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",2012,105000
+28837,CA,Santa Cruz County,"Santa Cruz-Watsonville, CA MSA",2012,87000
+28838,CA,Shasta County,"Redding, CA MSA",2012,59000
+28839,CA,Sierra County,"Sierra County, CA",2012,71800
+28840,CA,Siskiyou County,"Siskiyou County, CA",2012,50400
+28841,CA,Solano County,"Vallejo-Fairfield, CA MSA",2012,82600
+28842,CA,Sonoma County,"Santa Rosa-Petaluma, CA MSA",2012,82600
+28843,CA,Stanislaus County,"Modesto, CA MSA",2012,62000
+28844,CA,Sutter County,"Yuba City, CA MSA",2012,59400
+28845,CA,Tehama County,"Tehama County, CA",2012,46200
+28846,CA,Trinity County,"Trinity County, CA",2012,48300
+28847,CA,Tulare County,"Visalia-Porterville, CA MSA",2012,49500
+28848,CA,Tuolumne County,"Tuolumne County, CA",2012,66700
+28849,CA,Ventura County,"Oxnard-Thousand Oaks-Ventura, CA MSA",2012,89300
+28850,CA,Yolo County,"Yolo, CA HUD Metro FMR Area",2012,76900
+28851,CA,Yuba County,"Yuba City, CA MSA",2012,59400
+33560,CA,Alameda County,"Oakland-Fremont, CA HUD Metro FMR Area",2013,89200
+33561,CA,Alpine County,"Alpine County, CA",2013,85300
+33562,CA,Amador County,"Amador County, CA",2013,69200
+33563,CA,Butte County,"Chico, CA MSA",2013,55700
+33564,CA,Calaveras County,"Calaveras County, CA",2013,69700
+33565,CA,Colusa County,"Colusa County, CA",2013,57000
+33566,CA,Contra Costa County,"Oakland-Fremont, CA HUD Metro FMR Area",2013,89200
+33567,CA,Del Norte County,"Del Norte County, CA",2013,55100
+33568,CA,El Dorado County,"Sacramento--Arden-Arcade--Roseville, CA HUD Metro FMR Area",2013,70900
+33569,CA,Fresno County,"Fresno, CA MSA",2013,54600
+33570,CA,Glenn County,"Glenn County, CA",2013,52900
+33571,CA,Humboldt County,"Humboldt County, CA",2013,54400
+33572,CA,Imperial County,"El Centro, CA MSA",2013,48000
+33573,CA,Inyo County,"Inyo County, CA",2013,65800
+33574,CA,Kern County,"Bakersfield-Delano, CA MSA",2013,52500
+33575,CA,Kings County,"Hanford-Corcoran, CA MSA",2013,50400
+33576,CA,Lake County,"Lake County, CA",2013,49200
+33577,CA,Lassen County,"Lassen County, CA",2013,66800
+33578,CA,Los Angeles County,"Los Angeles-Long Beach, CA HUD Metro FMR Area",2013,61900
+33579,CA,Madera County,"Madera-Chowchilla, CA MSA",2013,54500
+33580,CA,Marin County,"San Francisco, CA HUD Metro FMR Area",2013,101200
+33581,CA,Mariposa County,"Mariposa County, CA",2013,61300
+33582,CA,Mendocino County,"Mendocino County, CA",2013,49900
+33583,CA,Merced County,"Merced, CA MSA",2013,50200
+33584,CA,Modoc County,"Modoc County, CA",2013,49300
+33585,CA,Mono County,"Mono County, CA",2013,79600
+33586,CA,Monterey County,"Salinas, CA MSA",2013,63100
+33587,CA,Napa County,"Napa, CA MSA",2013,80600
+33588,CA,Nevada County,"Nevada County, CA",2013,65900
+33589,CA,Orange County,"Orange County, CA HUD Metro FMR Area",2013,84100
+33590,CA,Placer County,"Sacramento--Arden-Arcade--Roseville, CA HUD Metro FMR Area",2013,70900
+33591,CA,Plumas County,"Plumas County, CA",2013,57600
+33592,CA,Riverside County,"Riverside-San Bernardino-Ontario, CA MSA",2013,62600
+33593,CA,Sacramento County,"Sacramento--Arden-Arcade--Roseville, CA HUD Metro FMR Area",2013,70900
+33594,CA,San Benito County,"San Benito County, CA HUD Metro FMR Area",2013,79800
+33595,CA,San Bernardino County,"Riverside-San Bernardino-Ontario, CA MSA",2013,62600
+33596,CA,San Diego County,"San Diego-Carlsbad-San Marcos, CA MSA",2013,72300
+33597,CA,San Francisco County,"San Francisco, CA HUD Metro FMR Area",2013,101200
+33598,CA,San Joaquin County,"Stockton, CA MSA",2013,58600
+33599,CA,San Luis Obispo County,"San Luis Obispo-Paso Robles, CA MSA",2013,70900
+33600,CA,San Mateo County,"San Francisco, CA HUD Metro FMR Area",2013,101200
+33601,CA,Santa Barbara County,"Santa Barbara-Santa Maria-Goleta, CA MSA",2013,71000
+33602,CA,Santa Clara County,"San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",2013,101300
+33603,CA,Santa Cruz County,"Santa Cruz-Watsonville, CA MSA",2013,73800
+33604,CA,Shasta County,"Redding, CA MSA",2013,54400
+33605,CA,Sierra County,"Sierra County, CA",2013,72200
+33606,CA,Siskiyou County,"Siskiyou County, CA",2013,50000
+33607,CA,Solano County,"Vallejo-Fairfield, CA MSA",2013,78800
+33608,CA,Sonoma County,"Santa Rosa-Petaluma, CA MSA",2013,74900
+33609,CA,Stanislaus County,"Modesto, CA MSA",2013,56600
+33610,CA,Sutter County,"Yuba City, CA MSA",2013,56300
+33611,CA,Tehama County,"Tehama County, CA",2013,48300
+33612,CA,Trinity County,"Trinity County, CA",2013,49600
+33613,CA,Tulare County,"Visalia-Porterville, CA MSA",2013,48500
+33614,CA,Tuolumne County,"Tuolumne County, CA",2013,66400
+33615,CA,Ventura County,"Oxnard-Thousand Oaks-Ventura, CA MSA",2013,86700
+33616,CA,Yolo County,"Yolo, CA HUD Metro FMR Area",2013,75000
+33617,CA,Yuba County,"Yuba City, CA MSA",2013,56300
+38327,CA,Alameda County,"Oakland-Fremont, CA HUD Metro FMR Area",2018,104400
+38328,CA,Alpine County,"Alpine County, CA",2018,77800
+38329,CA,Amador County,"Amador County, CA",2018,73600
+38330,CA,Butte County,"Chico, CA MSA",2018,60500
+38331,CA,Calaveras County,"Calaveras County, CA",2018,72300
+38332,CA,Colusa County,"Colusa County, CA",2018,59500
+38333,CA,Contra Costa County,"Oakland-Fremont, CA HUD Metro FMR Area",2018,104400
+38334,CA,Del Norte County,"Del Norte County, CA",2018,55300
+38335,CA,El Dorado County,"Sacramento--Roseville--Arden-Arcade, CA HUD Metro FMR Area",2018,80100
+38336,CA,Fresno County,"Fresno, CA MSA",2018,55500
+38337,CA,Glenn County,"Glenn County, CA",2018,53100
+38338,CA,Humboldt County,"Humboldt County, CA",2018,54700
+38339,CA,Imperial County,"El Centro, CA MSA",2018,48200
+38340,CA,Inyo County,"Inyo County, CA",2018,71100
+38341,CA,Kern County,"Bakersfield, CA MSA",2018,58700
+38342,CA,Kings County,"Hanford-Corcoran, CA MSA",2018,55400
+38343,CA,Lake County,"Lake County, CA",2018,50100
+38344,CA,Lassen County,"Lassen County, CA",2018,68000
+38345,CA,Los Angeles County,"Los Angeles-Long Beach-Glendale, CA HUD Metro FMR Area",2018,69300
+38346,CA,Madera County,"Madera, CA MSA",2018,55200
+38347,CA,Marin County,"San Francisco, CA HUD Metro FMR Area",2018,118400
+38348,CA,Mariposa County,"Mariposa County, CA",2018,64200
+38349,CA,Mendocino County,"Mendocino County, CA",2018,60600
+38350,CA,Merced County,"Merced, CA MSA",2018,48200
+38351,CA,Modoc County,"Modoc County, CA",2018,50400
+38352,CA,Mono County,"Mono County, CA",2018,77500
+38353,CA,Monterey County,"Salinas, CA MSA",2018,69100
+38354,CA,Napa County,"Napa, CA MSA",2018,88500
+38355,CA,Nevada County,"Nevada County, CA",2018,70000
+38356,CA,Orange County,"Santa Ana-Anaheim-Irvine, CA HUD Metro FMR Area",2018,92700
+38357,CA,Placer County,"Sacramento--Roseville--Arden-Arcade, CA HUD Metro FMR Area",2018,80100
+38358,CA,Plumas County,"Plumas County, CA",2018,63300
+38359,CA,Riverside County,"Riverside-San Bernardino-Ontario, CA MSA",2018,65800
+38360,CA,Sacramento County,"Sacramento--Roseville--Arden-Arcade, CA HUD Metro FMR Area",2018,80100
+38361,CA,San Benito County,"San Benito County, CA HUD Metro FMR Area",2018,79800
+38362,CA,San Bernardino County,"Riverside-San Bernardino-Ontario, CA MSA",2018,65800
+38363,CA,San Diego County,"San Diego-Carlsbad, CA MSA",2018,81800
+38364,CA,San Francisco County,"San Francisco, CA HUD Metro FMR Area",2018,118400
+38365,CA,San Joaquin County,"Stockton-Lodi, CA MSA",2018,63700
+38366,CA,San Luis Obispo County,"San Luis Obispo-Paso Robles-Arroyo Grande, CA MSA",2018,80600
+38367,CA,San Mateo County,"San Francisco, CA HUD Metro FMR Area",2018,118400
+38368,CA,Santa Barbara County,"Santa Maria-Santa Barbara, CA MSA",2018,79600
+38369,CA,Santa Clara County,"San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",2018,125200
+38370,CA,Santa Cruz County,"Santa Cruz-Watsonville, CA MSA",2018,81400
+38371,CA,Shasta County,"Redding, CA MSA",2018,61400
+38372,CA,Sierra County,"Sierra County, CA",2018,65800
+38373,CA,Siskiyou County,"Siskiyou County, CA",2018,48200
+38374,CA,Solano County,"Vallejo-Fairfield, CA MSA",2018,83700
+38375,CA,Sonoma County,"Santa Rosa, CA MSA",2018,84100
+38376,CA,Stanislaus County,"Modesto, CA MSA",2018,60700
+38377,CA,Sutter County,"Yuba City, CA MSA",2018,60000
+38378,CA,Tehama County,"Tehama County, CA",2018,51300
+38379,CA,Trinity County,"Trinity County, CA",2018,51800
+38380,CA,Tulare County,"Visalia-Porterville, CA MSA",2018,49200
+38381,CA,Tuolumne County,"Tuolumne County, CA",2018,63200
+38382,CA,Ventura County,"Oxnard-Thousand Oaks-Ventura, CA MSA",2018,96000
+38383,CA,Yolo County,"Yolo, CA HUD Metro FMR Area",2018,85100
+38384,CA,Yuba County,"Yuba City, CA MSA",2018,60000
+43098,CA,Alameda County,"Oakland-Fremont, CA HUD Metro FMR Area",2019,111700
+43099,CA,Alpine County,"Alpine County, CA",2019,80100
+43100,CA,Amador County,"Amador County, CA",2019,73000
+43101,CA,Butte County,"Chico, CA MSA",2019,66500
+43102,CA,Calaveras County,"Calaveras County, CA",2019,75300
+43103,CA,Colusa County,"Colusa County, CA",2019,61900
+43104,CA,Contra Costa County,"Oakland-Fremont, CA HUD Metro FMR Area",2019,111700
+43105,CA,Del Norte County,"Del Norte County, CA",2019,57000
+43106,CA,El Dorado County,"Sacramento--Roseville--Arden-Arcade, CA HUD Metro FMR Area",2019,83600
+43107,CA,Fresno County,"Fresno, CA MSA",2019,57300
+43108,CA,Glenn County,"Glenn County, CA",2019,53800
+43109,CA,Humboldt County,"Humboldt County, CA",2019,61400
+43110,CA,Imperial County,"El Centro, CA MSA",2019,60700
+43111,CA,Inyo County,"Inyo County, CA",2019,72700
+43112,CA,Kern County,"Bakersfield, CA MSA",2019,57900
+43113,CA,Kings County,"Hanford-Corcoran, CA MSA",2019,58100
+43114,CA,Lake County,"Lake County, CA",2019,56500
+43115,CA,Lassen County,"Lassen County, CA",2019,68300
+43116,CA,Los Angeles County,"Los Angeles-Long Beach-Glendale, CA HUD Metro FMR Area",2019,73100
+43117,CA,Madera County,"Madera, CA MSA",2019,59100
+43118,CA,Marin County,"San Francisco, CA HUD Metro FMR Area",2019,136800
+43119,CA,Mariposa County,"Mariposa County, CA",2019,63600
+43120,CA,Mendocino County,"Mendocino County, CA",2019,54700
+43121,CA,Merced County,"Merced, CA MSA",2019,55500
+43122,CA,Modoc County,"Modoc County, CA",2019,55600
+43123,CA,Mono County,"Mono County, CA",2019,77900
+43124,CA,Monterey County,"Salinas, CA MSA",2019,74100
+43125,CA,Napa County,"Napa, CA MSA",2019,100400
+43126,CA,Nevada County,"Nevada County, CA",2019,85100
+43127,CA,Orange County,"Santa Ana-Anaheim-Irvine, CA HUD Metro FMR Area",2019,97900
+43128,CA,Placer County,"Sacramento--Roseville--Arden-Arcade, CA HUD Metro FMR Area",2019,83600
+43129,CA,Plumas County,"Plumas County, CA",2019,70700
+43130,CA,Riverside County,"Riverside-San Bernardino-Ontario, CA MSA",2019,69700
+43131,CA,Sacramento County,"Sacramento--Roseville--Arden-Arcade, CA HUD Metro FMR Area",2019,83600
+43132,CA,San Benito County,"San Benito County, CA HUD Metro FMR Area",2019,84500
+43133,CA,San Bernardino County,"Riverside-San Bernardino-Ontario, CA MSA",2019,69700
+43134,CA,San Diego County,"San Diego-Carlsbad, CA MSA",2019,86300
+43135,CA,San Francisco County,"San Francisco, CA HUD Metro FMR Area",2019,136800
+43136,CA,San Joaquin County,"Stockton-Lodi, CA MSA",2019,71400
+43137,CA,San Luis Obispo County,"San Luis Obispo-Paso Robles-Arroyo Grande, CA MSA",2019,87500
+43138,CA,San Mateo County,"San Francisco, CA HUD Metro FMR Area",2019,136800
+43139,CA,Santa Barbara County,"Santa Maria-Santa Barbara, CA MSA",2019,79300
+43140,CA,Santa Clara County,"San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",2019,131400
+43141,CA,Santa Cruz County,"Santa Cruz-Watsonville, CA MSA",2019,98000
+43142,CA,Shasta County,"Redding, CA MSA",2019,61900
+43143,CA,Sierra County,"Sierra County, CA",2019,71500
+43144,CA,Siskiyou County,"Siskiyou County, CA",2019,52000
+43145,CA,Solano County,"Vallejo-Fairfield, CA MSA",2019,85700
+43146,CA,Sonoma County,"Santa Rosa, CA MSA",2019,93300
+43147,CA,Stanislaus County,"Modesto, CA MSA",2019,64500
+43148,CA,Sutter County,"Yuba City, CA MSA",2019,59500
+43149,CA,Tehama County,"Tehama County, CA",2019,51200
+43150,CA,Trinity County,"Trinity County, CA",2019,50100
+43151,CA,Tulare County,"Visalia-Porterville, CA MSA",2019,50900
+43152,CA,Tuolumne County,"Tuolumne County, CA",2019,65700
+43153,CA,Ventura County,"Oxnard-Thousand Oaks-Ventura, CA MSA",2019,97800
+43154,CA,Yolo County,"Yolo, CA HUD Metro FMR Area",2019,87900
+43155,CA,Yuba County,"Yuba City, CA MSA",2019,59500
